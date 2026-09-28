@@ -39,10 +39,10 @@ O Code Trouble é desenvolvido e mantido pela **[Suporte de Domingo](https://sup
   <a href="https://suportededomingo.com.br">Site</a> ·
   <a href="https://www.instagram.com/suportededomingo/">Instagram</a> ·
   <a href="https://linktr.ee/suportededomingo">Linktree</a> ·
-  <a href="mailto:suportededomingo@outlook.com">suportededomingo@outlook.com</a>
+  <a href="mailto:suportededomingo@outlook.com">lucas.correa@suportededomingo.com.br</a>
 </p>
 
-Parcerias, dúvidas ou falhas de segurança: **suportededomingo@outlook.com**.
+Parcerias, dúvidas ou falhas de segurança: **lucas.correa@suportededomingo.com.br**.
 
 ---
 
